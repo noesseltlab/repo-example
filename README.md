@@ -1,1 +1,4 @@
-# repo_example
+# repo-example
+
+A small project description.
+
