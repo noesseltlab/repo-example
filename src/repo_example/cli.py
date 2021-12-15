@@ -1,6 +1,5 @@
 """Console script for repo_example."""
 import sys
-import sys
 import click
 
 
