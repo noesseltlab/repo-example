@@ -1,6 +1,5 @@
 """Console script for repo_example."""
 import sys
-import sys
 import click
 
 
@@ -15,3 +14,5 @@ def main(args=None):
 
 if __name__ == "__main__":
     sys.exit(main())  # pragma: no cover
+
+# this is a comment
